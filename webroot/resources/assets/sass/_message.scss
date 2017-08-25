@@ -1,0 +1,16 @@
+.message .avatar{
+  height: 64px;
+  width: 64px;
+  img{
+    height: 100%;
+    width: 100%;
+  }
+}
+
+.message .new-message.read{
+  display: none;
+}
+.message .new-message.new{
+  color: red;
+}
+
